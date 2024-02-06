@@ -1,6 +1,6 @@
-# MyBank
+# Olá, me chamo Igor !
 
-O MyBank é um sistema bancário simples desenvolvido em Java, criado como projeto de estudo.
+E este é o MyBank, um sistema bancário simples desenvolvido em Java, criado como projeto de estudos.
 
 ## Funcionalidades
 
